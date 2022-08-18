@@ -9,7 +9,7 @@ public class Main {
         int y = 20;
         int c = x + y;
         //System.out.println("Nazywam się "+name+" "+znak+ " mam "+age+" lata");
-        System.out.println(c);
+        System.out.println("Suma "+ x +" i "+ y +" jest równa " + c);
 
     }
 
